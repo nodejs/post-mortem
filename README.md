@@ -12,4 +12,6 @@ Initial proposed members include:
   + Julien Gilli (@misterdjules)
   + Michael Dawson (@mhdawson)
   + Chris Bailey (@seabaylea)
+  + Bradley Meck (@bmeck)
+  + Daniel Khan (@danielkhan)
   + any others interested from the community
