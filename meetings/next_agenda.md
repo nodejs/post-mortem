@@ -1,4 +1,4 @@
-# Node Post-mortem meeting TBD
+# Node.js post-mortem diagnostics meeting TBD
 
 (Doodle poll for deciding meeting time: http://doodle.com/fkranzakx4ikfexi )
 
