@@ -1,6 +1,6 @@
 # Node Post-mortem meeting TBD
 
-(Doodle poll for deciding meeting time:  )
+(Doodle poll for deciding meeting time: http://doodle.com/fkranzakx4ikfexi )
 
 ## Present
 
