@@ -14,4 +14,5 @@ Initial proposed members include:
   + Chris Bailey (@seabaylea)
   + Bradley Meck (@bmeck)
   + Daniel Khan (@danielkhan)
+  + Joshua Clulow (@jclulow)
   + any others interested from the community
