@@ -5,7 +5,7 @@ The Post Mortem Diagnostics working group is dedicated to support and improvemen
 1. Defining and adding interfaces/APIs in order to allow dumps to be generated when needed
 2. Defining and adding common structures to the dumps generated in order to support tools that want to introspect those dumps
 
-Initial proposed members include:
+The members of the working group include:
 
   + Howard Hellyer (@hellyeribm)
   + David Pacheco (@davepacheco)
@@ -15,4 +15,5 @@ Initial proposed members include:
   + Bradley Meck (@bmeck)
   + Daniel Khan (@danielkhan)
   + Joshua Clulow (@jclulow)
+  + Yunong Xiao (@yunong)
   + any others interested from the community
