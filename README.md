@@ -18,4 +18,5 @@ The members of the working group include:
   + Daniel Khan (@danielkhan)
   + Joshua Clulow (@jclulow)
   + Yunong Xiao (@yunong)
+  + James Bellenger (@jbellenger)
   + any others interested from the community
