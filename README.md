@@ -19,4 +19,5 @@ The members of the working group include:
   + Joshua Clulow (@jclulow)
   + Yunong Xiao (@yunong)
   + James Bellenger (@jbellenger)
+  + Luca Maraschi (@lucamaraschi)
   + any others interested from the community
