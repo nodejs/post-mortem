@@ -5,13 +5,11 @@
 
 # Present
 
-* Yunong Xiao @yunongx
-* Dave Pacheco @dapsays
-* Joshua M. Clulow @jmclulow
+* Yunong Xiao @yunong
+* Dave Pacheco @davepacheco
+* Joshua M. Clulow @jclulow
 * Michael Dawson  @mhdawson
 * Richard Chamberlain @rnchamberlain
-* Ali Sheik @ofrobots
-* Luca
 
 
 # Agenda
