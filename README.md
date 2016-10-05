@@ -20,5 +20,6 @@ The members of the working group include:
   + Yunong Xiao (@yunong)
   + James Bellenger (@jbellenger)
   + Luca Maraschi (@lucamaraschi)
+  + David Mark Clements (@davidmarkclem)
   + Richard Chamberlain (@rnchamberlain)
   + any others interested from the community
