@@ -22,4 +22,5 @@ The members of the working group include:
   + Luca Maraschi (@lucamaraschi)
   + David Mark Clements (@davidmarkclem)
   + Richard Chamberlain (@rnchamberlain)
+  + Richard Lau (@richardlau)
   + any others interested from the community
