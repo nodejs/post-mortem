@@ -9,18 +9,18 @@ Responsibilities include:
 
 The members of the working group include:
 
-  + Howard Hellyer (@hellyeribm)
-  + David Pacheco (@davepacheco)
-  + Julien Gilli (@misterdjules)
-  + Michael Dawson (@mhdawson)
-  + Chris Bailey (@seabaylea)
-  + Bradley Meck (@bmeck)
-  + Daniel Khan (@danielkhan)
-  + Joshua Clulow (@jclulow)
-  + Yunong Xiao (@yunong)
-  + James Bellenger (@jbellenger)
-  + Luca Maraschi (@lucamaraschi)
-  + David Mark Clements (@davidmarkclem)
-  + Richard Chamberlain (@rnchamberlain)
-  + Richard Lau (@richardlau)
+  + [@hellyeribm](@hellyeribm) -Howard Hellyer
+  + [@davepacheco](@davepacheco) -David Pacheco
+  + [@misterdjules](@misterdjules) -Julien Gilli
+  + [@mhdawson](@mhdawson) -Michael Dawson
+  + [@seabaylea](@seabaylea) -Chris Bailey
+  + [@bmeck](@bmeck) -Bradley Meck
+  + [@danielkhan](@danielkhan) -Daniel Khan
+  + [@jclulow](@jclulow) -Joshua Clulow
+  + [@yunong](@yunong) -Yunong Xiao
+  + [@jbellenger](@jbellenger) -James Bellenger
+  + [@lucamaraschi](@lucamaraschi) -Luca Maraschi
+  + [@davidmarkclem](@davidmarkclem) -David Mark Clements
+  + [@rnchamberlain](@rnchamberlain) -Richard Chamberlain
+  + [@richardlau](@richardlau) -Richard Lau
   + any others interested from the community
